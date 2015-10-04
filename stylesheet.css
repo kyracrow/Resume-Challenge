@@ -11,9 +11,10 @@ img {
 }
 
 h1 {
-	margin-top: 0 50px 0 50px;
+	margin-top: 0 auto;
 	padding:50px;
 	font-size:80px;
+	border-bottom:1px solid;
 	
 }
 
