@@ -12,13 +12,15 @@ img {
 
 h1 {
 	text-align: center;
+	padding:20px;
 	margin-top:20px;
-	padding:50px;
 	font-size:60px;
+	
+	
 }
 
 p {
-	text-align: left;
+	text-align: right;
 }
 
 h3{
