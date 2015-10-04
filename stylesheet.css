@@ -11,10 +11,10 @@ img {
 }
 
 h1 {
-	margin-top: 0 auto;
+	float:center;
 	padding:50px;
-	font-size:80px;
-	border-bottom:1px solid;
+	font-size:60px;
+	
 	
 }
 
