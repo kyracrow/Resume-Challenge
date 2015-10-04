@@ -12,8 +12,6 @@ img {
 
 h1 {
 	text-align: center;
-	padding:20px;
-	margin-top:20px;
 	font-size:60px;
 	
 	
@@ -25,6 +23,7 @@ p {
 
 h3{
 	font-size:10pt;
+	text-align:center;
 }
 
 h4 {
